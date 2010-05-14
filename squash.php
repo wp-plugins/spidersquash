@@ -5,7 +5,7 @@ Plugin URI: http://spidersquash.com
 Description: SpiderSquash detects and blocks malicious automated access to your web site.  SpiderSquash uses a central blocking database and advanced statistical analysis techniques to detect and block bad bots.  SpiderSquash protects your content and your users from nefarious bot operators.
 Version: 0.6
 Author: Ersun Warncke
-Author URI: http://er.sun/
+Author URI: http://pivotprogress.com/
 */
 
 /**

@@ -22,3 +22,5 @@ In order to access the SpiderSquash service, you must have a registered account.
 == Installation ==
 
 Upload the SpiderSquash plugin to your blog.  Activate it, then enter the database, username, and password information provided when you subscribed to the SpiderSquash service.
+
+[Subscribe to SpiderSquash](http://spidersquash.com/useradd.php)
